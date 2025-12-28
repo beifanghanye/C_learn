@@ -3,7 +3,7 @@
 
 #define MIN 1
 #define MAX 20
-#define CLOSE_TIME 200
+#define CLOSE_TIME 200000000000
 
 // 需要两种数据结构：队列和链表
 // 1.队列：用来模拟客户排队
